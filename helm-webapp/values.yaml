@@ -8,5 +8,5 @@ configmap:
     CUSTOM_HEADER: 'This we app was deployed with helm!'
 
 image:
-  name: voa2000/nginx-demo
-  tag: app-246
+  name: voa2000/webapp
+  tag: latest
