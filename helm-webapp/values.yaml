@@ -8,5 +8,5 @@ configmap:
     CUSTOM_HEADER: 'This we app was deployed with helm!'
 
 image:
-  name: voa2000/cat-app
+  name: voa2000/catapp
   tag: latest
