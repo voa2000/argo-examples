@@ -8,5 +8,5 @@ configmap:
     CUSTOM_HEADER: 'This app was deployed with helm!'
 
 image:
-  name: devopsjourney1/mywebapp
-  tag: latest
+  name: voa2000/web-app:v1
+  tag: v1
